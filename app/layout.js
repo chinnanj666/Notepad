@@ -1,7 +1,5 @@
 import { Inter } from 'next/font/google';
 import './globals.css';
-import NotePad from '../public/drawit-logo.jpg';
-
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
