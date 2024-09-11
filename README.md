@@ -2,9 +2,9 @@
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server on your local system: ie. browser
 
-```bash
+```bash 
 npm run dev
 # or
 yarn dev
